@@ -66,7 +66,8 @@ Format:
 | Andy Huynh | [andystructible](https://github.com/andystructible) | I'm interning at a RoRs shop in Southern California. I'm excited to contribute to the open source community! |
 | Angela Sheu | [angelasheu](https://github.com/angelasheu) ||
 | Anna Mach | [amach](https://github.com/amach) ||
-| Anthony Gargiulo | [agargiulo](https://github.com/agargiulo) ||
+| Anthony Gargiulo | [agargiulo](https://github.com/agargiulo) |
+| Antoine Ogier | [<Anogio>](https://github.com/Anogio) | I'm a beginner, and I have started learning Python and C|
 | Armand Halbert | [ahalbert](https://github.com/ahalbert) ||
 | Arne Fostvedt | [arn-e](https://github.com/arn-e) ||
 | Ash Courchene | [Acour83](https://github.com/Acour83) ||
